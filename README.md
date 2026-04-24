@@ -21,3 +21,9 @@ Minha jornada é focada no ecossistema **Java**, explorando a robustez do **Spri
 - 📱 Explorando **React Native** para desenvolver apps mobile
 - 🎯 Focado em criar **soluções eficientes**
 - 🚀 Sempre aprendendo, sempre buildando
+   
+<br>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermeneiva)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeneiva.dev@gmail.com)
